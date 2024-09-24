@@ -6,5 +6,5 @@ Landing page cards animation with GSAP
 
 Need some more work to get it responsive. So please use [live view](https://codepen.io/dilums/live/NWodZMd) for better results.
 
-Inspiration
+HEAVY Inspiration
 [Timed Cards Opening](https://dribbble.com/shots/11012652--Timed-Cards-Opening) by [Giulio Cuscito](https://dribbble.com/Giulio_Cuscito)
